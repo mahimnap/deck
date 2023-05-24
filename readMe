@@ -1,0 +1,4 @@
+currently successfully created an array with every card and passed back to main 
+- usage: each card is a struct with a numeric value, symbol of the card, and the suit
+- examples in main: print out full deck & print out 7 random cards for a player 
+-- random card doesn't currently check for duplicates in the current hand 
